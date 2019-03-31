@@ -1,0 +1,23 @@
+Hi Team,
+
+This is in regards to the API Testing role on Seek. Below is my profile in nutshell:
+
+1. Result oriented Test professional with 12+ years of experience and implementation exposure of leading the testing for several large-scale complex digital projects.
+2. A permanent employee with GBST, Sydney. Have worked in Planit testing, Sydney for it's clients - Sydney Airport and DFSI (Govt. of NSW)
+3. Worked in DFSI for testing newly built API's and integration in the existing system.
+- Used Postman tool for entire API testing.
+- Preperaed test data by creating Jason payload.
+- Understood the underlying data model for each of the API and raised defects based upon the data types.
+4. In GBST(current org), have been working on various integration testing with web and fund administration system :
+- Using the tools - SOAP UI and JMeter for sending request and response for all projects.
+5. Proven experience with tools like HP ALM (QC) and JIRA. I have also worked in HPQC(Now ALM) for 9 years in my previou org - Fidelity Worldwide Investment. Created Test suite, Test cases, requirements and linked test cases with requirements.
+6. Proficiency in creating test plan, strategy, test cases, estimation, traceability matrix, test summary report and Defect Management.
+7. Hands-on experience of 6+ years in leading the projects in SIT, UAT, E2E, API, Regression, PVT, Compliance, and Migration projects testing
+8. Effective Stakeholder management.
+
+Some of the certifications I possess are Prince 2 Practitioner, Certified Scrum Master (CSM), ISTQB Advanced and Foundation, Tosca level 1 and level 2 and Certified Agile Essentials(CAE).
+
+Many Thanks
+Rahul Singh
+0470692330
+https://www.linkedin.com/in/rahulsh/
